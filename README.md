@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Framework, Web Development, Software Development**
 
-- 📫 How to reach me **liam.dispa@skygenesisenterprise.com**
+- 📫 How to reach me **hello@liamvonastoria.net**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
