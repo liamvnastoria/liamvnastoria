@@ -25,7 +25,7 @@
   <a href="https://youtube.com/@liamvonastoria" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&style=for-the-badge" alt="YouTube" />
   </a>
-  <a href="https://discord.gg/skygenesisenterprise" target="_blank" rel="noopener noreferrer">
+  <a href="https://skygenesisenterprise.net/discord" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&style=for-the-badge" alt="Discord" />
   </a>
 </p>
