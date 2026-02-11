@@ -9,7 +9,7 @@
 
 ### About Me
 
-- 🔭 Currently driving innovation at [Sky Genesis Enterprise](https://skygenesisenterprise.com/)  
+- 🔭 Currently driving innovation at [Sky Genesis Enterprise](https://github.com/skygenesisenterprise)  
 - 🌱 Passionate about mastering modern **frameworks, web & software development**  
 - 💡 Lover of clean code, open source, and scalable architectures  
 - 📫 Reach me anytime at: <a href="mailto:hello@liamvonastoria.net">hello@liamvonastoria.net</a>  
